@@ -3,7 +3,8 @@
 Implementation of Conway's Game of Life in a graphical way.
 
 ## Build:
-``` make && ./main 
+```
+make && ./main 
 ```
 
 ## Usage:
